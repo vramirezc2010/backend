@@ -5,7 +5,15 @@
 # Teslo Api
 
 
-1. Levantar la base de datos
+1. Levantar la base de datos - Solo la primera vez en docker
 ```
 docker-compose up -d
 ```
+
+
+2. para ejecutar la App
+```
+yarn start:dev
+```
+
+
